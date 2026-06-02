@@ -1,7 +1,7 @@
 Smart Helmet IoT Monitoring System
 Live Dashboard
 
-smarthelmetcontrol.netlify.app
+https://smarthelmetcontrol.netlify.app
 
 Features
 Real-time Temperature Monitoring
@@ -26,4 +26,4 @@ ESP32 Sensors → Firebase Realtime Database → Smart Helmet Dashboard
 
 Live Website
 
-smarthelmetcontrol.netlify.app
+https://smarthelmetcontrol.netlify.app
